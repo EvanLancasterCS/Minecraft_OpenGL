@@ -2,6 +2,7 @@
 Recreation of Minecraft using C++ and OpenGL, with multi-threaded world generation.
 
 Multi-threaded mesh generation;
+# Multi-threading gif
 ![](https://media0.giphy.com/media/25R8S3GoDVqLYqb0MA/giphy.gif)
 
 Real-time chunk mesh rebuilding;
